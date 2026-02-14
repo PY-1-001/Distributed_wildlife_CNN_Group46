@@ -1,4 +1,6 @@
- Animal Image Classification using PyTorch
+ Animal Image Classification using PyTorch : 
+
+ Data source for this project is african-wildlife dataset available on kaggle(https://www.kaggle.com/datasets/biancaferreira/african-wildlife)
 
 This project implements a Convolutional Neural Network (CNN) for multi-class animal image classification using the Animals10 dataset. The model is built and trained using PyTorch with GPU acceleration in Google Colab.
 
